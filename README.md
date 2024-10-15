@@ -1,7 +1,7 @@
 # 💫 About Me:
 Xin chào, mình là Trúc Anh<br>Chào mừng các bạn đến với dự án "Terrace",  chúng mình cung cấp các loại thức uống giá cả hợp lí và phù hợp với mọi lứa tuổi<br> 📚 Giới Thiệu:
-![image](https://github.com/user-attachments/assets/3c10f50c-1ab8-484b-a34c-cc3592c94384)
 
+![image](https://github.com/user-attachments/assets/3c10f50c-1ab8-484b-a34c-cc3592c94384)
 
 "Terrace" là một dự án chúng mình rất tâm quyết, muốn mang đến cho mọi người một nền tảng có thể lựa chọn các loại thức uống phù  hợp với nhu cầu của mọi người<br>"Terrace" nghĩa là ruộng bậc thang, chúng mình lấy ý tưởng từ những màu xanh-vàng-nâu tượng trưng cho thiên nhiên, khi thưởng thức các loại đồ uống bên mình, các bạn sẽ cảm thấy "fresh" và sẽ được liên tưởng tới các màu sắc của hình ảnh ruộng bậc thang<br>📞 Liên Hệ<br>Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với chúng mình qua hotline: 0912345xx để được tư vấn nhé!<br><br>
 
