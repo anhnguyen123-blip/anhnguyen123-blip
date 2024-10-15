@@ -1,5 +1,5 @@
 # 💫 About Me:
-Xin chào, mình là Trúc Anh<br>Chào mừng các bạn đến với dự án "Terrace",  chúng mình cung cấp các loại thức uống giá cả hợp lí và phù hợp với mọi lứa tuổi<br> 📚 Giới Thiệu:
+Xin chào, mình là Trúc Anh<br>Chào mừng các bạn đến với dự án "Terrace",  chúng mình cung cấp các loại thức uống giá cả hợp lí và phù hợp với mọi lứa tuổi.<br> 📚 Giới Thiệu:
 
 ![image](https://github.com/user-attachments/assets/3c10f50c-1ab8-484b-a34c-cc3592c94384)
 
